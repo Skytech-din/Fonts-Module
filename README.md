@@ -11,6 +11,6 @@
 3. Default font
 
 ## List:
-1. Cocon 
-2. Futura-Round
-3. Fenomen & Fenomen P8
+1. [Cocon](https://github.com/Skytech-din/Fonts-Module/releases/tag/Cocon)
+2. [Futura-Round](https://github.com/Skytech-din/Fonts-Module/releases/tag/Futura)
+3. [Fenomen & Fenomen P8](https://github.com/Skytech-din/Fonts-Module/releases/tag/Fenomen)

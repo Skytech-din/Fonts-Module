@@ -14,3 +14,4 @@
 1. [Cocon](https://github.com/Skytech-din/Fonts-Module/releases/tag/Cocon)
 2. [Futura-Round](https://github.com/Skytech-din/Fonts-Module/releases/tag/Futura)
 3. [Fenomen & Fenomen P8](https://github.com/Skytech-din/Fonts-Module/releases/tag/Fenomen)
+4. [Bague Round Pro](https://github.com/Skytech-din/Fonts-Module/releases/tag/Bague)

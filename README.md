@@ -10,6 +10,9 @@
 2. Android 8+
 3. Default font
 
+## Notes:
+I am not the author of these fonts, I just find the fonts themselves on the Internet and pack them for Magisk 
+
 ## List:
 1. [Cocon](https://github.com/Skytech-din/Fonts-Module/releases/tag/Cocon)
 2. [Futura-Round](https://github.com/Skytech-din/Fonts-Module/releases/tag/Futura)
